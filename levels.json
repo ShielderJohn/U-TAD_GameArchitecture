@@ -1,0 +1,14 @@
+{
+	"level1": {
+		"basketboard_pos_x": 24,
+		"basketboard_pos_y": 100,
+		"basketcase_pos_x": 96.07,
+		"basketcase_pos_y": 70
+	},
+	"level2": {
+		"basketboard_pos_x": 4,
+		"basketboard_pos_y": 80,
+		"basketcase_pos_x": 76.07,
+		"basketcase_pos_y": 50
+	}
+}

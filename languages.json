@@ -1,0 +1,18 @@
+{
+	"english": {
+		"Game title": "BASKET MEISTER",
+		"Level 1": "LEVEL 1",
+		"Level 2": "LEVEL 2",
+		"Language": "LANGUAGE: ENGLISH",
+		"Exit": "EXIT",
+		"Score": "SCORE:"
+	},
+	"spanish": {
+		"Game title": "BASKET MEISTER",
+		"Level 1": "NIVEL 1",
+		"Level 2": "NIVEL 2",
+		"Language": "IDIOMA: ESPANOL",
+		"Exit": "SALIR",
+		"Score": "PUNTOS:"
+	}
+}
